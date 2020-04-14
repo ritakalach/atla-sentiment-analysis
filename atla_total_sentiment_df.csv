@@ -1,0 +1,367 @@
+episode_num,episode_title,character,total_sentiment
+1,The Boy in the Iceberg,Aang,0.0
+2,The Avatar Returns,Aang,1.0
+3,The Southern Air Temple,Aang,2.0
+4,The Warriors of Kyoshi,Aang,3.0
+5,The King of Omashu,Aang,4.0
+6,Imprisoned,Aang,5.0
+7,"The Spirit World (Winter Solstice, Part 1)",Aang,6.0
+8,"Avatar Roku (Winter Solstice, Part 2)",Aang,6.0
+9,The Waterbending Scroll,Aang,7.0
+10,Jet,Aang,8.0
+11,The Great Divide,Aang,8.0
+12,The Storm,Aang,8.0
+13,The Blue Spirit,Aang,8.0
+14,The Fortuneteller,Aang,9.0
+15,Bato of the Water Tribe,Aang,10.0
+16,The Deserter,Aang,10.0
+17,The Northern Air Temple,Aang,10.0
+18,The Waterbending Master,Aang,11.0
+19,"The Siege of the North, Part 1",Aang,12.0
+20,"The Siege of the North, Part 2",Aang,12.0
+21,The Avatar State,Aang,11.0
+22,The Cave of Two Lovers,Aang,12.0
+23,Return To Omashu,Aang,12.0
+24,The Swamp,Aang,12.0
+25,Avatar Day,Aang,13.0
+26,The Blind Bandit,Aang,14.0
+27,Zuko Alone,Aang,
+28,The Chase,Aang,14.0
+29,Bitter Work,Aang,14.0
+30,The Library,Aang,15.0
+31,The Desert,Aang,15.0
+32,The Serpent's Pass,Aang,15.0
+33,The Drill,Aang,15.0
+34,City of Walls and Secrets,Aang,16.0
+35,The Tales of Ba Sing Se,Aang,17.0
+36,Appa's Lost Days,Aang,16.0
+37,Lake Laogai,Aang,16.0
+38,The Earth King,Aang,16.0
+39,The Guru,Aang,17.0
+40,The Crossroads of Destiny,Aang,18.0
+41,The Awakening,Aang,18.0
+42,The Headband,Aang,19.0
+43,The Painted Lady,Aang,20.0
+44,Sokka's Master,Aang,21.0
+45,The Beach,Aang,20.0
+46,The Avatar and The Firelord,Aang,21.0
+47,The Runaway,Aang,22.0
+48,The Puppetmaster,Aang,22.0
+49,Nightmares and Daydreams,Aang,22.0
+50,"The Day of Black Sun, Part 1: The Invasion",Aang,22.0
+51,"The Day of Black Sun, Part 2: The Eclipse",Aang,23.0
+52,The Western Air Temple,Aang,23.0
+53,The Firebending Masters,Aang,23.0
+54,"The Boiling Rock, Part 1",Aang,23.0
+55,"The Boiling Rock, Part 2",Aang,24.0
+56,The Southern Raiders,Aang,24.0
+57,The Ember Island Players,Aang,24.0
+58,"Sozin's Comet, Part 1: The Phoenix King",Aang,23.0
+59,"Sozin's Comet, Part 2: The Old Masters",Aang,23.0
+60,"Sozin's Comet, Part 3: Into the Inferno",Aang,24.0
+61,"Sozin's Comet, Part 4: Avatar Aang",Aang,23.0
+1,The Boy in the Iceberg,Katara,0.0
+2,The Avatar Returns,Katara,0.0
+3,The Southern Air Temple,Katara,0.0
+4,The Warriors of Kyoshi,Katara,1.0
+5,The King of Omashu,Katara,2.0
+6,Imprisoned,Katara,3.0
+7,"The Spirit World (Winter Solstice, Part 1)",Katara,4.0
+8,"Avatar Roku (Winter Solstice, Part 2)",Katara,4.0
+9,The Waterbending Scroll,Katara,4.0
+10,Jet,Katara,4.0
+11,The Great Divide,Katara,4.0
+12,The Storm,Katara,4.0
+13,The Blue Spirit,Katara,4.0
+14,The Fortuneteller,Katara,5.0
+15,Bato of the Water Tribe,Katara,6.0
+16,The Deserter,Katara,7.0
+17,The Northern Air Temple,Katara,7.0
+18,The Waterbending Master,Katara,7.0
+19,"The Siege of the North, Part 1",Katara,8.0
+20,"The Siege of the North, Part 2",Katara,8.0
+21,The Avatar State,Katara,7.0
+22,The Cave of Two Lovers,Katara,7.0
+23,Return To Omashu,Katara,8.0
+24,The Swamp,Katara,8.0
+25,Avatar Day,Katara,9.0
+26,The Blind Bandit,Katara,10.0
+27,Zuko Alone,Katara,
+28,The Chase,Katara,10.0
+29,Bitter Work,Katara,11.0
+30,The Library,Katara,11.0
+31,The Desert,Katara,11.0
+32,The Serpent's Pass,Katara,12.0
+33,The Drill,Katara,11.0
+34,City of Walls and Secrets,Katara,11.0
+35,The Tales of Ba Sing Se,Katara,12.0
+36,Appa's Lost Days,Katara,
+37,Lake Laogai,Katara,11.0
+38,The Earth King,Katara,11.0
+39,The Guru,Katara,12.0
+40,The Crossroads of Destiny,Katara,12.0
+41,The Awakening,Katara,12.0
+42,The Headband,Katara,13.0
+43,The Painted Lady,Katara,14.0
+44,Sokka's Master,Katara,14.0
+45,The Beach,Katara,15.0
+46,The Avatar and The Firelord,Katara,14.0
+47,The Runaway,Katara,14.0
+48,The Puppetmaster,Katara,14.0
+49,Nightmares and Daydreams,Katara,15.0
+50,"The Day of Black Sun, Part 1: The Invasion",Katara,16.0
+51,"The Day of Black Sun, Part 2: The Eclipse",Katara,16.0
+52,The Western Air Temple,Katara,15.0
+53,The Firebending Masters,Katara,15.0
+54,"The Boiling Rock, Part 1",Katara,14.0
+55,"The Boiling Rock, Part 2",Katara,13.0
+56,The Southern Raiders,Katara,12.0
+57,The Ember Island Players,Katara,12.0
+58,"Sozin's Comet, Part 1: The Phoenix King",Katara,12.0
+59,"Sozin's Comet, Part 2: The Old Masters",Katara,13.0
+60,"Sozin's Comet, Part 3: Into the Inferno",Katara,14.0
+61,"Sozin's Comet, Part 4: Avatar Aang",Katara,13.0
+1,The Boy in the Iceberg,Sokka,-1.0
+2,The Avatar Returns,Sokka,-1.0
+3,The Southern Air Temple,Sokka,-1.0
+4,The Warriors of Kyoshi,Sokka,0.0
+5,The King of Omashu,Sokka,1.0
+6,Imprisoned,Sokka,1.0
+7,"The Spirit World (Winter Solstice, Part 1)",Sokka,1.0
+8,"Avatar Roku (Winter Solstice, Part 2)",Sokka,2.0
+9,The Waterbending Scroll,Sokka,2.0
+10,Jet,Sokka,2.0
+11,The Great Divide,Sokka,3.0
+12,The Storm,Sokka,2.0
+13,The Blue Spirit,Sokka,3.0
+14,The Fortuneteller,Sokka,3.0
+15,Bato of the Water Tribe,Sokka,3.0
+16,The Deserter,Sokka,3.0
+17,The Northern Air Temple,Sokka,3.0
+18,The Waterbending Master,Sokka,4.0
+19,"The Siege of the North, Part 1",Sokka,4.0
+20,"The Siege of the North, Part 2",Sokka,5.0
+21,The Avatar State,Sokka,5.0
+22,The Cave of Two Lovers,Sokka,4.0
+23,Return To Omashu,Sokka,3.0
+24,The Swamp,Sokka,3.0
+25,Avatar Day,Sokka,3.0
+26,The Blind Bandit,Sokka,3.0
+27,Zuko Alone,Sokka,
+28,The Chase,Sokka,3.0
+29,Bitter Work,Sokka,3.0
+30,The Library,Sokka,3.0
+31,The Desert,Sokka,3.0
+32,The Serpent's Pass,Sokka,4.0
+33,The Drill,Sokka,5.0
+34,City of Walls and Secrets,Sokka,4.0
+35,The Tales of Ba Sing Se,Sokka,5.0
+36,Appa's Lost Days,Sokka,
+37,Lake Laogai,Sokka,6.0
+38,The Earth King,Sokka,6.0
+39,The Guru,Sokka,6.0
+40,The Crossroads of Destiny,Sokka,6.0
+41,The Awakening,Sokka,7.0
+42,The Headband,Sokka,7.0
+43,The Painted Lady,Sokka,7.0
+44,Sokka's Master,Sokka,8.0
+45,The Beach,Sokka,7.0
+46,The Avatar and The Firelord,Sokka,6.0
+47,The Runaway,Sokka,7.0
+48,The Puppetmaster,Sokka,7.0
+49,Nightmares and Daydreams,Sokka,6.0
+50,"The Day of Black Sun, Part 1: The Invasion",Sokka,6.0
+51,"The Day of Black Sun, Part 2: The Eclipse",Sokka,6.0
+52,The Western Air Temple,Sokka,5.0
+53,The Firebending Masters,Sokka,6.0
+54,"The Boiling Rock, Part 1",Sokka,6.0
+55,"The Boiling Rock, Part 2",Sokka,6.0
+56,The Southern Raiders,Sokka,5.0
+57,The Ember Island Players,Sokka,5.0
+58,"Sozin's Comet, Part 1: The Phoenix King",Sokka,4.0
+59,"Sozin's Comet, Part 2: The Old Masters",Sokka,4.0
+60,"Sozin's Comet, Part 3: Into the Inferno",Sokka,5.0
+61,"Sozin's Comet, Part 4: Avatar Aang",Sokka,6.0
+1,The Boy in the Iceberg,Toph,
+2,The Avatar Returns,Toph,
+3,The Southern Air Temple,Toph,
+4,The Warriors of Kyoshi,Toph,
+5,The King of Omashu,Toph,
+6,Imprisoned,Toph,
+7,"The Spirit World (Winter Solstice, Part 1)",Toph,
+8,"Avatar Roku (Winter Solstice, Part 2)",Toph,
+9,The Waterbending Scroll,Toph,
+10,Jet,Toph,
+11,The Great Divide,Toph,
+12,The Storm,Toph,
+13,The Blue Spirit,Toph,
+14,The Fortuneteller,Toph,
+15,Bato of the Water Tribe,Toph,
+16,The Deserter,Toph,
+17,The Northern Air Temple,Toph,
+18,The Waterbending Master,Toph,
+19,"The Siege of the North, Part 1",Toph,
+20,"The Siege of the North, Part 2",Toph,
+21,The Avatar State,Toph,
+22,The Cave of Two Lovers,Toph,
+23,Return To Omashu,Toph,
+24,The Swamp,Toph,
+25,Avatar Day,Toph,
+26,The Blind Bandit,Toph,1.0
+27,Zuko Alone,Toph,
+28,The Chase,Toph,1.0
+29,Bitter Work,Toph,2.0
+30,The Library,Toph,2.0
+31,The Desert,Toph,2.0
+32,The Serpent's Pass,Toph,2.0
+33,The Drill,Toph,2.0
+34,City of Walls and Secrets,Toph,2.0
+35,The Tales of Ba Sing Se,Toph,3.0
+36,Appa's Lost Days,Toph,2.0
+37,Lake Laogai,Toph,3.0
+38,The Earth King,Toph,3.0
+39,The Guru,Toph,2.0
+40,The Crossroads of Destiny,Toph,3.0
+41,The Awakening,Toph,3.0
+42,The Headband,Toph,3.0
+43,The Painted Lady,Toph,3.0
+44,Sokka's Master,Toph,3.0
+45,The Beach,Toph,4.0
+46,The Avatar and The Firelord,Toph,5.0
+47,The Runaway,Toph,5.0
+48,The Puppetmaster,Toph,5.0
+49,Nightmares and Daydreams,Toph,6.0
+50,"The Day of Black Sun, Part 1: The Invasion",Toph,6.0
+51,"The Day of Black Sun, Part 2: The Eclipse",Toph,7.0
+52,The Western Air Temple,Toph,6.0
+53,The Firebending Masters,Toph,7.0
+54,"The Boiling Rock, Part 1",Toph,8.0
+55,"The Boiling Rock, Part 2",Toph,8.0
+56,The Southern Raiders,Toph,8.0
+57,The Ember Island Players,Toph,9.0
+58,"Sozin's Comet, Part 1: The Phoenix King",Toph,10.0
+59,"Sozin's Comet, Part 2: The Old Masters",Toph,10.0
+60,"Sozin's Comet, Part 3: Into the Inferno",Toph,9.0
+61,"Sozin's Comet, Part 4: Avatar Aang",Toph,10.0
+1,The Boy in the Iceberg,Zuko,0.0
+2,The Avatar Returns,Zuko,0.0
+3,The Southern Air Temple,Zuko,0.0
+4,The Warriors of Kyoshi,Zuko,1.0
+5,The King of Omashu,Zuko,
+6,Imprisoned,Zuko,
+7,"The Spirit World (Winter Solstice, Part 1)",Zuko,1.0
+8,"Avatar Roku (Winter Solstice, Part 2)",Zuko,1.0
+9,The Waterbending Scroll,Zuko,1.0
+10,Jet,Zuko,
+11,The Great Divide,Zuko,
+12,The Storm,Zuko,2.0
+13,The Blue Spirit,Zuko,1.0
+14,The Fortuneteller,Zuko,
+15,Bato of the Water Tribe,Zuko,1.0
+16,The Deserter,Zuko,
+17,The Northern Air Temple,Zuko,
+18,The Waterbending Master,Zuko,2.0
+19,"The Siege of the North, Part 1",Zuko,2.0
+20,"The Siege of the North, Part 2",Zuko,2.0
+21,The Avatar State,Zuko,2.0
+22,The Cave of Two Lovers,Zuko,2.0
+23,Return To Omashu,Zuko,
+24,The Swamp,Zuko,2.0
+25,Avatar Day,Zuko,2.0
+26,The Blind Bandit,Zuko,
+27,Zuko Alone,Zuko,1.0
+28,The Chase,Zuko,2.0
+29,Bitter Work,Zuko,3.0
+30,The Library,Zuko,
+31,The Desert,Zuko,4.0
+32,The Serpent's Pass,Zuko,3.0
+33,The Drill,Zuko,3.0
+34,City of Walls and Secrets,Zuko,2.0
+35,The Tales of Ba Sing Se,Zuko,3.0
+36,Appa's Lost Days,Zuko,3.0
+37,Lake Laogai,Zuko,3.0
+38,The Earth King,Zuko,4.0
+39,The Guru,Zuko,5.0
+40,The Crossroads of Destiny,Zuko,5.0
+41,The Awakening,Zuko,4.0
+42,The Headband,Zuko,4.0
+43,The Painted Lady,Zuko,
+44,Sokka's Master,Zuko,
+45,The Beach,Zuko,4.0
+46,The Avatar and The Firelord,Zuko,3.0
+47,The Runaway,Zuko,
+48,The Puppetmaster,Zuko,
+49,Nightmares and Daydreams,Zuko,3.0
+50,"The Day of Black Sun, Part 1: The Invasion",Zuko,2.0
+51,"The Day of Black Sun, Part 2: The Eclipse",Zuko,3.0
+52,The Western Air Temple,Zuko,2.0
+53,The Firebending Masters,Zuko,2.0
+54,"The Boiling Rock, Part 1",Zuko,2.0
+55,"The Boiling Rock, Part 2",Zuko,2.0
+56,The Southern Raiders,Zuko,2.0
+57,The Ember Island Players,Zuko,1.0
+58,"Sozin's Comet, Part 1: The Phoenix King",Zuko,0.0
+59,"Sozin's Comet, Part 2: The Old Masters",Zuko,0.0
+60,"Sozin's Comet, Part 3: Into the Inferno",Zuko,-1.0
+61,"Sozin's Comet, Part 4: Avatar Aang",Zuko,0.0
+1,The Boy in the Iceberg,Azula,
+2,The Avatar Returns,Azula,
+3,The Southern Air Temple,Azula,
+4,The Warriors of Kyoshi,Azula,
+5,The King of Omashu,Azula,
+6,Imprisoned,Azula,
+7,"The Spirit World (Winter Solstice, Part 1)",Azula,
+8,"Avatar Roku (Winter Solstice, Part 2)",Azula,
+9,The Waterbending Scroll,Azula,
+10,Jet,Azula,
+11,The Great Divide,Azula,
+12,The Storm,Azula,
+13,The Blue Spirit,Azula,
+14,The Fortuneteller,Azula,
+15,Bato of the Water Tribe,Azula,
+16,The Deserter,Azula,
+17,The Northern Air Temple,Azula,
+18,The Waterbending Master,Azula,
+19,"The Siege of the North, Part 1",Azula,
+20,"The Siege of the North, Part 2",Azula,
+21,The Avatar State,Azula,0.0
+22,The Cave of Two Lovers,Azula,
+23,Return To Omashu,Azula,1.0
+24,The Swamp,Azula,
+25,Avatar Day,Azula,
+26,The Blind Bandit,Azula,
+27,Zuko Alone,Azula,1.0
+28,The Chase,Azula,1.0
+29,Bitter Work,Azula,
+30,The Library,Azula,
+31,The Desert,Azula,
+32,The Serpent's Pass,Azula,
+33,The Drill,Azula,2.0
+34,City of Walls and Secrets,Azula,
+35,The Tales of Ba Sing Se,Azula,
+36,Appa's Lost Days,Azula,3.0
+37,Lake Laogai,Azula,
+38,The Earth King,Azula,4.0
+39,The Guru,Azula,4.0
+40,The Crossroads of Destiny,Azula,4.0
+41,The Awakening,Azula,5.0
+42,The Headband,Azula,6.0
+43,The Painted Lady,Azula,
+44,Sokka's Master,Azula,
+45,The Beach,Azula,7.0
+46,The Avatar and The Firelord,Azula,7.0
+47,The Runaway,Azula,
+48,The Puppetmaster,Azula,
+49,Nightmares and Daydreams,Azula,7.0
+50,"The Day of Black Sun, Part 1: The Invasion",Azula,
+51,"The Day of Black Sun, Part 2: The Eclipse",Azula,8.0
+52,The Western Air Temple,Azula,
+53,The Firebending Masters,Azula,
+54,"The Boiling Rock, Part 1",Azula,
+55,"The Boiling Rock, Part 2",Azula,7.0
+56,The Southern Raiders,Azula,8.0
+57,The Ember Island Players,Azula,7.0
+58,"Sozin's Comet, Part 1: The Phoenix King",Azula,6.0
+59,"Sozin's Comet, Part 2: The Old Masters",Azula,
+60,"Sozin's Comet, Part 3: Into the Inferno",Azula,6.0
+61,"Sozin's Comet, Part 4: Avatar Aang",Azula,5.0
