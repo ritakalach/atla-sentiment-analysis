@@ -6,10 +6,10 @@ I was curious if sentiment scores could be used to visualize character arcs. If 
 
 For this project, I decided to analyze one of my favorite shows, Avatar: The Last Airbender.
 
-See how I
-1) scraped Avatar: The Last Airbender fansite for episode transcripts using BeautifulSoup,
-2) analyzed character dialogue with VADER (a lexicon and rule-based sentiment analysis tool),
-3) and visualized the sentiment scores with Plotly Express.
+See how I:
+1) Scraped Avatar: The Last Airbender fansite for episode transcripts using BeautifulSoup
+2) Analyzed character dialogue with VADER (a lexicon and rule-based sentiment analysis tool)
+3) Visualized the sentiment scores with Plotly Express
 
 The outcome of this project are two [interactive visualizations](https://plotly.com/~ritakalach/4/) that show the sentiment progression of six main characters. For more information, read the accompanying [blog post.](https://medium.com/data-comet/atla-sentiment-analysis-43f26edddad2)
 
