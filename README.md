@@ -1,7 +1,7 @@
 # Using sentiment analysis to visualize character arcs in ATLA TV series
 A beginner end-to-end NLP data science project.
 
-# Motivatin and project description
+# Motivation and project description
 I was curious if sentiment scores could be used to visualize character arcs. If so, sentiment analysis could be used to help writers evaluate character development in their work.
 
 For this project, I decided to analyze one of my favorite shows, Avatar: The Last Airbender.
