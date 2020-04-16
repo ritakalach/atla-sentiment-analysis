@@ -7,7 +7,7 @@ I was curious to see if sentiment scores could be used to visualize character ar
 For this project, I analyzed one of my favorite TV shows, *Avatar: The Last Airbender (ATLA).*
 
 See how I:
-1) Scraped *ATLA* fansite for episode transcripts using BeautifulSoup
+1) Scraped the web for episode transcripts with BeautifulSoup
 2) Analyzed character dialogue with VADER (a lexicon and rule-based sentiment analysis tool)
 3) Visualized the sentiment scores with Plotly Express
 
