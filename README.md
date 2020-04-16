@@ -1,5 +1,5 @@
 # Using sentiment analysis to visualize character arcs in ATLA TV series
-A beginner end-to-end NLP data science project.
+A beginner end-to-end NLP data science project in Python.
 
 # Motivation and project description
 I was curious to see if sentiment scores could be used to visualize character arcs. If so, could sentiment analysis be used to help writers evaluate character development in their work?
@@ -17,7 +17,6 @@ The outcome of this project are two [interactive visualizations](https://plotly.
 Necessary packages:
 * pandas
 * numpy
-* statistics
 * requests
 * BeautifulSoup
 * re
