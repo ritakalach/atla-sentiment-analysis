@@ -13,3 +13,16 @@ See how I:
 
 The outcome of this project are two [interactive visualizations](https://plotly.com/~ritakalach/4/) that show the sentiment progression of six *ATLA* characters. For more information, read the accompanying [blog post.](https://medium.com/data-comet/atla-sentiment-analysis-43f26edddad2)
 
+# Running the code
+You need to have [Jupyter Notebook](https://jupyter.readthedocs.io/en/latest/install.html) installed on your computer. Download atla_sentiment_analysis.ipynb to current directory and open Jupyter Notebook by running `jupyter notebook` in the command line.
+
+Packages you need to have installed for the code to run:
+* pandas
+* numpy
+* statistics
+* requests
+* BeautifulSoup
+* re
+* nltk
+* vaderSentiment
+* plotly
