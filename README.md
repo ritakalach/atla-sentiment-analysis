@@ -1,4 +1,4 @@
-# Using sentiment analysis to visualize character arcs in ATLA TV series
+# Using sentiment analysis to visualize character arcs in Avatar: The Last Airbender
 A beginner end-to-end NLP data science project in Python.
 
 # Motivation and project description
