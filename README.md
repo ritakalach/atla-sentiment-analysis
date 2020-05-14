@@ -1,8 +1,8 @@
 # Using Sentiment Analysis to Visualize Character Arcs in Avatar: The Last Airbender
-End-to-end data science project in Python. How-to tutorial on: 1) data scraping, 2) sentiment analysis, 3) and data visualization.
+End-to-end data science project in Python. How-to: 1) data scraping, 2) sentiment analysis, 3) and data visualization.
 
 # Motivation and project description
-I was curious to see if sentiment scores could be used to visualize character arcs. If so, could sentiment analysis be used to help writers evaluate character development in their work?
+I was curious to see if sentiment scores could be used to visualize character arcs. If so, could sentiment analysis help writers evaluate character development in their work?
 
 For this project, I analyzed one of my favorite TV shows, *Avatar: The Last Airbender (ATLA).*
 
