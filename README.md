@@ -1,5 +1,5 @@
 # Using Sentiment Analysis to Visualize Character Arcs in Avatar: The Last Airbender
-End-to-end data science project in Python. How-to: 1) data scraping, 2) sentiment analysis, 3) and data visualization.
+End-to-end data science project in Python: 1) data scraping, 2) sentiment analysis, 3) and data visualization.
 
 # Motivation and project description
 I was curious to see if sentiment scores could be used to visualize character arcs. If so, could sentiment analysis help writers evaluate character development in their work?
@@ -11,7 +11,7 @@ See how I:
 2) Analyzed character dialogue with VADER (a lexicon and rule-based sentiment analysis tool)
 3) Visualized the sentiment scores with Plotly Express
 
-The outcome of this project are two [interactive visualizations](https://plotly.com/~ritakalach/4/) that show the sentiment progression of six *ATLA* characters. For more information, read the accompanying [blog post.](https://medium.com/data-comet/atla-sentiment-analysis-43f26edddad2)
+The outcome of this project are two [interactive visualizations](https://plotly.com/~ritakalach/4/) that show the sentiment progression of six *ATLA* characters. For more information (and code walkthrough), read the accompanying [blog post.](https://medium.com/data-comet/atla-sentiment-analysis-43f26edddad2)
 
 # Running the code
 Necessary packages:
