@@ -11,7 +11,7 @@ See how I:
 2) Analyzed character dialogue with VADER (a lexicon and rule-based sentiment analysis tool)
 3) Visualized the sentiment scores with Plotly Express
 
-The outcome of this project are two [interactive visualizations](https://plotly.com/~ritakalach/4/) that show the sentiment progression of six *ATLA* characters. For more information (and code walkthrough), read the accompanying [blog post.](https://medium.com/data-comet/atla-sentiment-analysis-43f26edddad2)
+The outcome of this project are two [interactive visualizations](https://plotly.com/~ritakalach/4/) that show the sentiment progression of six *ATLA* characters. For more information (and code walk-through), read the accompanying [blog post.](https://medium.com/data-comet/atla-sentiment-analysis-43f26edddad2)
 
 # Running the code
 Necessary packages:
