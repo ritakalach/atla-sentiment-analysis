@@ -14,7 +14,7 @@ See the accompanying [Medium blog post](https://medium.com/data-comet/atla-senti
 
 
 # Visualizations
-Below are the two interactive visualizations created with *Plotly Express*. (Click to open a new tab and interact.)
+Below are the two interactive visualizations created with *Plotly Express*. (Click image to interact.)
 <div>
     <a href="https://plotly.com/~ritakalach/4/" target="_blank" title="atla_total_sentiment" style="display: block; text-align: center;"><img src="https://plotly.com/~ritakalach/4.png" alt="atla_total_sentiment" style="max-width: 100%;width: 475px;"  width="475" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
 </div>
