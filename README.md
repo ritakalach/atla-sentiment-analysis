@@ -25,14 +25,4 @@ Below are the two interactive visualizations created with *Plotly Express*.
 
 
 # Running the code
-Necessary packages:
-* pandas
-* numpy
-* requests
-* BeautifulSoup
-* re
-* nltk
-* vaderSentiment
-* plotly
-
 You need to have [Jupyter Notebook](https://jupyter.readthedocs.io/en/latest/install.html) installed on your computer. Download [atla_sentiment_analysis.ipynb](atla_sentiment_analysis.ipynb) to current directory and open Jupyter Notebook by running `jupyter notebook` in the command line.
