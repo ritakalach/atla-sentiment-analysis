@@ -14,7 +14,7 @@ For this project, I analyzed one of my favorite TV shows, *Avatar: The Last Airb
 
 
 # Visualizations
-Below are the two interactive visualizations created with *Plotly Express* and a regular bar chart that nicely summarizes the sentiment scores of six *ATLA* characters.
+Below are the two interactive visualizations created with *Plotly Express*.
 <div>
     <a href="https://plotly.com/~ritakalach/4/" target="_blank" title="atla_total_sentiment" style="display: block; text-align: center;"><img src="https://plotly.com/~ritakalach/4.png" alt="atla_total_sentiment" style="max-width: 100%;width: 475px;"  width="475" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
 </div>
