@@ -4,14 +4,26 @@ End-to-end data science project in Python: 1) data scraping, 2) sentiment analys
 # Motivation and project description
 I was curious to see if sentiment scores could be used to visualize character arcs. If so, could sentiment analysis help writers evaluate character development in their work?
 
-For this project, I analyzed one of my favorite TV shows, *Avatar: The Last Airbender (ATLA).*
+For this project, I analyzed one of my favorite TV shows, *Avatar: The Last Airbender (ATLA).* I used Jupyter Notebook for Python to document my project. Follow along to see how to:
+1) Scrape the web for episode transcripts with *Beautiful Soup*
+2) Analyze character dialogue using *VADER*
+3) Create interactive visualizations of the sentiment scores with *Plotly Express*
 
-See how I:
-1) Scraped the web for episode transcripts with BeautifulSoup
-2) Analyzed character dialogue with VADER (a lexicon and rule-based sentiment analysis tool)
-3) Visualized the sentiment scores with Plotly Express
+**See the accompanying [Medium blog post](https://medium.com/data-comet/atla-sentiment-analysis-43f26edddad2) for detailed project tutorial and conclusion / project takeaways.**
 
-The outcome of this project are two [interactive visualizations](https://plotly.com/~ritakalach/4/) that show the sentiment progression of six *ATLA* characters. For more information (and code walk-through), read the accompanying [blog post.](https://medium.com/data-comet/atla-sentiment-analysis-43f26edddad2)
+
+# Visualizations
+Below are the two interactive visualizations created with *Plotly Express* and a regular bar chart that nicely summarizes the sentiment scores of six *ATLA* characters.
+<div>
+    <a href="https://plotly.com/~ritakalach/4/" target="_blank" title="atla_total_sentiment" style="display: block; text-align: center;"><img src="https://plotly.com/~ritakalach/4.png" alt="atla_total_sentiment" style="max-width: 100%;width: 475px;"  width="475" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
+</div>
+
+<div>
+    <a href="https://plotly.com/~ritakalach/2/" target="_blank" title="atla_sentiment" style="display: block; text-align: center;"><img src="https://plotly.com/~ritakalach/2.png" alt="atla_sentiment" style="max-width: 100%;width: 475px;"  width="475" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
+</div>
+
+<img src="media/atla_bar_chart.png" width=950>
+
 
 # Running the code
 Necessary packages:
