@@ -13,18 +13,12 @@ For this project, I analyzed one of my favorite TV shows *Avatar: The Last Airbe
 
 See the accompanying [Medium blog post](https://medium.com/data-comet/atla-sentiment-analysis-43f26edddad2) for detailed project tutorial and discussion.
 
-<img src="media/medium_article.gif" width = 500>
+[<img src="media/medium_article.gif" width = 500>](https://medium.com/data-comet/atla-sentiment-analysis-43f26edddad2)
 
 # Visualizations
-Below are the two interactive visualizations created with *Plotly Express*. (Click image to interact.)
-<div>
-    <a href="https://plotly.com/~ritakalach/4/" target="_blank" title="atla_total_sentiment" style="display: block; text-align: center;"><img src="https://plotly.com/~ritakalach/4.png" alt="atla_total_sentiment" style="max-width: 100%;width: 500px;"  width="500" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
-</div>
-
-<div>
-    <a href="https://plotly.com/~ritakalach/2/" target="_blank" title="atla_sentiment" style="display: block; text-align: center;"><img src="https://plotly.com/~ritakalach/2.png" alt="atla_sentiment" style="max-width: 100%;width: 500px;"  width="500" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
-</div>
-
+Below are the two interactive visualizations created with *Plotly Express*. (Click image to open new tab and interact.)
+[<img src="media/atla_running_total_of_sentiment.gif" width = 500>](https://chart-studio.plotly.com/~ritakalach/4/#/)
+[<img src="media/atla_sentiment_per_episode.gif" width = 500>](https://chart-studio.plotly.com/~ritakalach/2/#/)
 
 # Running the code
 You must have [Jupyter Notebook](https://jupyter.readthedocs.io/en/latest/install.html) installed on your computer. Download [atla_sentiment_analysis.ipynb](atla_sentiment_analysis.ipynb) to current directory and open Jupyter Notebook by running `jupyter notebook` in the command line.
