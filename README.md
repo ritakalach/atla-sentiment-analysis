@@ -1,6 +1,8 @@
 # Using Sentiment Analysis to Visualize Character Arcs in Avatar: The Last Airbender
 End-to-end data science project in Python: 1) data scraping, 2) sentiment analysis, 3) and data visualization.
 
+<img src="media/zuko_art.jpg" width = 500>
+
 # Motivation and project description
 I was curious to see if sentiment scores could be used to visualize character arcs. If so, could sentiment analysis help writers evaluate character development in their work?
 
