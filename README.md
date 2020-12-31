@@ -17,7 +17,6 @@ See the accompanying [Medium blog post](https://medium.com/data-comet/atla-senti
 
 
 # Visualizations
-The first plot shows the running total of sentiment scores. The second shows sentiment scores per episode. I explain these in greater detail in my blog post.
 
 [<img src="media/atla_running_total_of_sentiment.gif" width = 500>](https://chart-studio.plotly.com/~ritakalach/4/#/)[<img src="media/atla_sentiment_per_episode.gif" width = 500>](https://chart-studio.plotly.com/~ritakalach/2/#/)
 
