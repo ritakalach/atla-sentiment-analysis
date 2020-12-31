@@ -16,7 +16,7 @@ See the accompanying [Medium blog post](https://medium.com/data-comet/atla-senti
 [<img src="media/medium_article.gif" width = 500>](https://medium.com/data-comet/atla-sentiment-analysis-43f26edddad2)
 
 # Visualizations
-Below are the two interactive visualizations created with *Plotly Express*. (Click image to open new tab and interact.)
+Below are the two interactive visualizations created with *Plotly Express*. (Click image to interact.)
 [<img src="media/atla_running_total_of_sentiment.gif" width = 500>](https://chart-studio.plotly.com/~ritakalach/4/#/)
 [<img src="media/atla_sentiment_per_episode.gif" width = 500>](https://chart-studio.plotly.com/~ritakalach/2/#/)
 
