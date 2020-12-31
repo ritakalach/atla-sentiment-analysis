@@ -13,7 +13,7 @@ For this project, I analyzed one of my favorite TV shows *Avatar: The Last Airbe
 2) Manipulate data with *pandas* and analyze character dialogue using *VADER*
 3) Create interactive visualizations of the sentiment scores with *Plotly Express*
 
-See the accompanying [Medium blog post](https://medium.com/data-comet/atla-sentiment-analysis-43f26edddad2) for detailed project tutorial and discussion.
+See the accompanying [**Medium blog post**](https://medium.com/data-comet/atla-sentiment-analysis-43f26edddad2) for detailed project tutorial and discussion.
 
 
 # Visualizations
