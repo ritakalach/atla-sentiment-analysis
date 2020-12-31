@@ -18,7 +18,8 @@ See the accompanying [Medium blog post](https://medium.com/data-comet/atla-senti
 
 # Visualizations
 
-[<img src="media/atla_running_total_of_sentiment.gif" width = 500>](https://chart-studio.plotly.com/~ritakalach/4/#/)[<img src="media/atla_sentiment_per_episode.gif" width = 500>](https://chart-studio.plotly.com/~ritakalach/2/#/)
+[<img src="media/atla_running_total_of_sentiment.gif" width = 500>](https://chart-studio.plotly.com/~ritakalach/4/#/)
+[<img src="media/atla_sentiment_per_episode.gif" width = 500>](https://chart-studio.plotly.com/~ritakalach/2/#/)
 
 
 # Running the code
