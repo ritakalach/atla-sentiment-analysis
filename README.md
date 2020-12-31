@@ -1,7 +1,8 @@
 # Using Sentiment Analysis to Visualize Character Arcs in Avatar: The Last Airbender
-End-to-end data science project in Python: 1) data scraping, 2) sentiment analysis, 3) and data visualization.
 
 <img src="media/atla_bar_chart.png" width = 800>
+
+End-to-end data science project in Python: 1) data scraping, 2) sentiment analysis, 3) and data visualization.
 
 
 # Motivation and project description
