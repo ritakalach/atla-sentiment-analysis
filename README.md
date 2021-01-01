@@ -2,7 +2,7 @@
 End-to-end data science project in Python: 1) data scraping, 2) sentiment analysis, 3) and data visualization.
 
 # Motivation and project description
-[<img src="media/medium_article.gif" align="right" width = 200>](https://medium.com/data-comet/atla-sentiment-analysis-43f26edddad2)
+[<img src="media/medium_article.png" align="right" width = 200>](https://medium.com/data-comet/atla-sentiment-analysis-43f26edddad2)
 I was curious to see if sentiment scores could be used to visualize character arcs. If so, could sentiment analysis help writers evaluate character development in their work?
 
 For this project, I analyzed one of my favorite TV shows *Avatar: The Last Airbender.* I used Jupyter Notebook for documentation. Follow along to see how to:
