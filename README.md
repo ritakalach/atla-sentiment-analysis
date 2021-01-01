@@ -20,7 +20,7 @@ See the accompanying [Medium blog post](https://medium.com/data-comet/atla-senti
 
 Without prior knowledge of the series, I could've guessed Azula is the villain by looking at the “Sentiment per episode” plot. Her trend line increases before a sharp decline towards the finale (typical for stories where the good guys win). See [Medium blog post](https://medium.com/data-comet/atla-sentiment-analysis-43f26edddad2) for further discussion. 
 
-In conclusion, I don't think sentiment progression is a perfect proxy for character arcs, but in the future it might be part of a larger algorithm that’ll help writers evaluate their work.
+In conclusion, I don't think sentiment progression is a perfect proxy for character development, but in the future it might be part of a larger algorithm that’ll help writers evaluate their work.
 
 # Running the code
 You must have [Jupyter Notebook](https://jupyter.readthedocs.io/en/latest/install.html) installed on your computer. Download [atla_sentiment_analysis.ipynb](atla_sentiment_analysis.ipynb) to current directory and open Jupyter Notebook by running `jupyter notebook` in the command line.
