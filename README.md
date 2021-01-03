@@ -18,7 +18,7 @@ See the accompanying [Medium blog post](https://medium.com/data-comet/atla-senti
 [<img src="media/atla_running_total_of_sentiment.gif" width = 500>](https://chart-studio.plotly.com/~ritakalach/4/#/)
 [<img src="media/atla_sentiment_per_episode.gif" width = 500>](https://chart-studio.plotly.com/~ritakalach/2/#/)
 
-Without prior knowledge of the series, I could've guessed Azula is the villain by looking at the “Sentiment per episode” plot. Her trend line increases before a sharp decline towards the finale (typical for stories where the good guys win). Although sentiment progression is not a perfect proxy for character development, in the future it might be part of a larger algorithm that’ll help writers evaluate their work. See [Medium blog post](https://medium.com/data-comet/atla-sentiment-analysis-43f26edddad2) for further discussion. 
+Without prior knowledge of the series, I could've guessed Azula is the villain by looking at the “Sentiments per episode” plot. Her trend line increases before a sharp decline towards the finale (typical for stories where the good guys win). Although sentiment progression is not a perfect proxy for character development, in the future it might be part of a larger algorithm that’ll help writers evaluate their work. See [Medium blog post](https://medium.com/data-comet/atla-sentiment-analysis-43f26edddad2) for further discussion. 
 
 # Running the code
 You must have [Jupyter Notebook](https://jupyter.readthedocs.io/en/latest/install.html) installed on your computer. Download [atla_sentiment_analysis.ipynb](atla_sentiment_analysis.ipynb) to current directory and open Jupyter Notebook by running `jupyter notebook` in the command line.
